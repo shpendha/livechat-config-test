@@ -1,0 +1,16 @@
+{
+  "103": {
+    "program": "Basic",
+    "groupId": 11,
+    "allowedCourses": [1532, 1966]
+  },
+  "465": {
+    "program": "Premium",
+    "groupId": 12,
+    "allowedCourses": [1984, 1986]
+  },
+  "107": {
+    "program": "Elite",
+    "groupId": 13
+  }
+}
