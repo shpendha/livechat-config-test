@@ -2,7 +2,7 @@
   "103": {
     "program": "Basic",
     "groupId": 11,
-    "allowedCourses": [1532, 1966]
+    "allowedCourses": [1529, 1532, 1966]
   },
   "465": {
     "program": "Premium",
